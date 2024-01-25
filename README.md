@@ -4,6 +4,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david.pimenta.718/)
 
 ![David GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidpimenta&show_icons=true&theme=radical)
+[![David GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidpimenta)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia.
 
